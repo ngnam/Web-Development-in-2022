@@ -266,3 +266,150 @@ Frameworks are used on the backend to build apps and APIs
 
 ![image](https://user-images.githubusercontent.com/11207864/148916811-6092c349-5b4d-4b82-b648-fbae0d747952.png)
 
+### Databases (Choose One) (BE, FS)
+
+Backend & Full stack developers work with various databases & tools
+
+| DB | Tools |
+| ------ | :------ |
+| 1. PostgreSQL, | 1. ORSs |
+| 2. MySQL, | 2. Sequelize |
+| 3. MS SQL Server, | 3. TypeORM |
+| 4. SQLite, | 4. Mongoose |
+| 5. MongoDB, | 5. Prisma |
+| 6. Firebase, | 6. SQLAIchemy |
+| 7. Supabase, | 7. Doctrine |
+| 8. Redis, | |
+| 9. RabbitMQ | |
+
+![image](https://user-images.githubusercontent.com/11207864/148918212-b38faae4-f0a9-4c7a-9e54-def639195999.png)
+
+### REST APIs (BE, FS)
+
+APIs that conform to the REST architechtural style and interacts with RESTful services
+
+[v] Representational State Transfer
+[v] HTTP requests work with data/resources
+[v] Specifuc URL structure for endpoints
+
+### GraphQL
+
+Data query & manipulation language for APIs
+
+[v] Request specific data points
+[v] Strongly typed 
+[v] Less maintenance than REST
+[v] Apollo is a popular GraphQL client
+
+### Authentication & Authorzation
+
+Authentication is the process indentitfying an individual and authorization pertains to the permissions that individual has.
+
+[v] JSON web tokens
+[v] Cookies & Sessions
+[v] OAuth (Login with Google, Facecbook, Twitter, Github, Zalo,...)
+[v] Authentication libraties (Passport, Grant, etc)
+[v] Password hashing (Brypt)
+[v] Protecting endpoints and routes
+
+### Wordpress
+
+Full-featured PHP content management system
+
+[v] Wordpress is still widely used
+[v] It is greate for freelancing
+[v] Small business clients like it
+[v] It can also be used as a headless CMS
+
+### Deploying Full Stack Projects & DevOps
+
+1. Hosting Platforms
+
+- aws
+- azure
+- heroku
+- Digital Ocean
+
+2. Server Software
+
+- Apache
+- Nginx
+
+3. Containers & Virtualization
+
+- Docker
+- Kubernetes
+
+4. Image & Video
+
+- Cloadinary
+- Amazon S3
+
+![image](https://user-images.githubusercontent.com/11207864/148921072-2e5fc2ca-16dd-4dea-92c8-786ab6130dc1.png)
+
+###  Backend & Full Stack Checklist
+
+A backend web developer should know how to do the following...
+
+[v] Comfortable with a server-side programming language
+[v] Know how to setup and manage a database & ORM / ODM
+[v] Know how to create REST APIs and implement authentication
+[v] Comfortable with the terminal and Unix commands
+[v] Know how to deploy projects and work with servers
+
+### Mobile Development (Choose One)
+
+There are many web technologies that allow us to create mobile apps
+
+1. React Navive
+
+- React based
+- Code reusability
+- Large Comminity
+
+3. Flutter
+
+- Dart Programming Language
+- Extremely Fast
+- Strong Documentation
+
+4. Ionic
+
+- Use any Framework
+- Pre-Designed UI Components
+- Developer-Friendly Tooling
+
+6. Xamarin
+
+- Mobile apps with .NET & C#
+- Cross-Platform Apps
+- High Performance
+
+### Web3
+
+Web3 opens up a whole new possibility of decentralized apps (Dapps) that offer benefits suck as transparency, security, anomymity and more.
+
+[v] Blockchain
+[v] Ethereum & Smart contracts
+[v] Solidity Programming
+[v] NFTs (Non-Funible Tokens)
+
+### Web Assembly
+
+A low-level asembly -like language or bytecode for the web
+
+[v] Develop high-performance web application
+[v] Write programs in Rust, C, C++ and compile to WASM
+[v] AssemblyScript is a TypeScript variant
+[v] NOT a replacement for JS!
+
+### Artificial Intelligence
+
+Machine Learning and AI have a role in web development
+
+[v] Programming tools (Github Copilot)
+[v] Testing tools
+[v] ML APIs
+[v] Chatbots, Spam Filters, Suggestions, etc.
+
+# Thanks you
