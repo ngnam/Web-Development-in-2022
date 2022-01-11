@@ -40,11 +40,11 @@ Basic tools that every web developers users
 
 HTML & SS are the building blocks of web development
 
-[v] HTML5 basic & semantic tags (Page Layout)
-[v] CSS Fundamentals
-[v] CSS Alignment (Flexbox & CSS Grid)
-[v] Media Queries / Responsive Design
-[v] Simple Animations / Transitions
+- [v] HTML5 basic & semantic tags (Page Layout)
+- [v] CSS Fundamentals
+- [v] CSS Alignment (Flexbox & CSS Grid)
+- [v] Media Queries / Responsive Design
+- [v] Simple Animations / Transitions
 
 ### Sass & PostCSS
 
@@ -111,13 +111,13 @@ There are moltiple ways to deploy to a hosting platform GIT, SSH, FTP/SFTP
 
 A basic frontend developer should be able to do the following...
 
-[v] Create website layouts with HTML/CSS.
-[v] Understand some basic design principles
-[v] Know JavaScript and how to work with the DOM.
-[v] Create basic interactive frontend applications.
-[v] Connect to APIs and make request vie Fetch, Axio, HTTPClient,...
-[v] Work with GIT and use version control.
-[v] Deploy and manage small production projects.
+- [v] Create website layouts with HTML/CSS.
+- [v] Understand some basic design principles
+- [v] Know JavaScript and how to work with the DOM.
+- [v] Create basic interactive frontend applications.
+- [v] Connect to APIs and make request vie Fetch, Axio, HTTPClient,...
+- [v] Work with GIT and use version control.
+- [v] Deploy and manage small production projects.
 
 ### Where To go From here (Choose one)
 
@@ -151,11 +151,11 @@ Frontend JS Frameworks used for SPAs (Single Page Applications)
 
 Supperset of JavaScript that adds static typing and other features
 
-[v] Static-Type Checking
-[v] Class & Module Support
-[v] Other ES6+ Features
-[v] Code less prone to errors
-[v] Code is more robust and definitive
+- [v] Static-Type Checking
+- [v] Class & Module Support
+- [v] Other ES6+ Features
+- [v] Code less prone to errors
+- [v] Code is more robust and definitive
 
 ### UI Kits & Librarys (Choose One)
 
@@ -173,9 +173,9 @@ Supperset of JavaScript that adds static typing and other features
 
 Common types of testing in programming
 
-[v] Unit Testing - Test blocks of code (functions, modules, classes)
-[v] Integration Testing - Modules are combined and tested together
-[v] E2E Testing - Emolating a user
+- [v] Unit Testing - Test blocks of code (functions, modules, classes)
+- [v] Integration Testing - Modules are combined and tested together
+- [v] E2E Testing - Emolating a user
 
 JS testing tools include Jesst, Cypress and Puppeteer. Other languages have testing tools as well.
 
@@ -211,24 +211,24 @@ Statuc sites have a lot of benefits such as performance, SEO and more
 
 Broad term to refer to an architechture approach for building websites
 
-[v] Variety of tools / technologies
-[v] Decouple
-[v] Static-First
-[v] Serverless Functions
-[v] Hight Performance, Secure & Affordable
+- [v] Variety of tools / technologies
+- [v] Decouple
+- [v] Static-First
+- [v] Serverless Functions
+- [v] Hight Performance, Secure & Affordable
 
 ### Frontend Superstar
 
 We have gone over just about everything a FE developer could do
 
-[v] Build user interfaces with a frontend framework
-[v] Understand how to work with local and global state
-[v] work with REST APIs & HTTP
+- [v] Build user interfaces with a frontend framework
+- [v] Understand how to work with local and global state
+- [v] work with REST APIs & HTTP
 
 Added Skills
-[v] Create applications with TypeeScript
-[v] Work with SST & Jamstack technologies (SSG, headless CMS)
-[v] Write unit integration & e2e tests.
+- [v] Create applications with TypeeScript
+- [v] Work with SST & Jamstack technologies (SSG, headless CMS)
+- [v] Write unit integration & e2e tests.
 
 ### Server-Side Language (Choose One) (BE, FS)
 
@@ -288,38 +288,38 @@ Backend & Full stack developers work with various databases & tools
 
 APIs that conform to the REST architechtural style and interacts with RESTful services
 
-[v] Representational State Transfer
-[v] HTTP requests work with data/resources
-[v] Specifuc URL structure for endpoints
+- [v] Representational State Transfer
+- [v] HTTP requests work with data/resources
+- [v] Specifuc URL structure for endpoints
 
 ### GraphQL
 
 Data query & manipulation language for APIs
 
-[v] Request specific data points
-[v] Strongly typed 
-[v] Less maintenance than REST
-[v] Apollo is a popular GraphQL client
+- [v] Request specific data points
+- [v] Strongly typed 
+- [v] Less maintenance than REST
+- [v] Apollo is a popular GraphQL client
 
 ### Authentication & Authorzation
 
 Authentication is the process indentitfying an individual and authorization pertains to the permissions that individual has.
 
-[v] JSON web tokens
-[v] Cookies & Sessions
-[v] OAuth (Login with Google, Facecbook, Twitter, Github, Zalo,...)
-[v] Authentication libraties (Passport, Grant, etc)
-[v] Password hashing (Brypt)
-[v] Protecting endpoints and routes
+- [v] JSON web tokens
+- [v] Cookies & Sessions
+- [v] OAuth (Login with Google, Facecbook, Twitter, Github, Zalo,...)
+- [v] Authentication libraties (Passport, Grant, etc)
+- [v] Password hashing (Brypt)
+- [v] Protecting endpoints and routes
 
 ### Wordpress
 
 Full-featured PHP content management system
 
-[v] Wordpress is still widely used
-[v] It is greate for freelancing
-[v] Small business clients like it
-[v] It can also be used as a headless CMS
+- [v] Wordpress is still widely used
+- [v] It is greate for freelancing
+- [v] Small business clients like it
+- [v] It can also be used as a headless CMS
 
 ### Deploying Full Stack Projects & DevOps
 
@@ -351,11 +351,11 @@ Full-featured PHP content management system
 
 A backend web developer should know how to do the following...
 
-[v] Comfortable with a server-side programming language
-[v] Know how to setup and manage a database & ORM / ODM
-[v] Know how to create REST APIs and implement authentication
-[v] Comfortable with the terminal and Unix commands
-[v] Know how to deploy projects and work with servers
+- [v] Comfortable with a server-side programming language
+- [v] Know how to setup and manage a database & ORM / ODM
+- [v] Know how to create REST APIs and implement authentication
+- [v] Comfortable with the terminal and Unix commands
+- [v] Know how to deploy projects and work with servers
 
 ### Mobile Development (Choose One)
 
@@ -389,27 +389,27 @@ There are many web technologies that allow us to create mobile apps
 
 Web3 opens up a whole new possibility of decentralized apps (Dapps) that offer benefits suck as transparency, security, anomymity and more.
 
-[v] Blockchain
-[v] Ethereum & Smart contracts
-[v] Solidity Programming
-[v] NFTs (Non-Funible Tokens)
+- [v] Blockchain
+- [v] Ethereum & Smart contracts
+- [v] Solidity Programming
+- [v] NFTs (Non-Funible Tokens)
 
 ### Web Assembly
 
 A low-level asembly -like language or bytecode for the web
 
-[v] Develop high-performance web application
-[v] Write programs in Rust, C, C++ and compile to WASM
-[v] AssemblyScript is a TypeScript variant
-[v] NOT a replacement for JS!
+- [v] Develop high-performance web application
+- [v] Write programs in Rust, C, C++ and compile to WASM
+- [v] AssemblyScript is a TypeScript variant
+- [v] NOT a replacement for JS!
 
 ### Artificial Intelligence
 
 Machine Learning and AI have a role in web development
 
-[v] Programming tools (Github Copilot)
-[v] Testing tools
-[v] ML APIs
-[v] Chatbots, Spam Filters, Suggestions, etc.
+- [v] Programming tools (Github Copilot)
+- [v] Testing tools
+- [v] ML APIs
+- [v] Chatbots, Spam Filters, Suggestions, etc.
 
 # Thanks you
